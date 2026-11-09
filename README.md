@@ -42,3 +42,6 @@ python -m unittest discover -s tests -v
 ## Course
 
 CMSC 426 - In-Class Activity #3
+
+## Webhook Verification
+This commit tests automatic Jenkins builds.
